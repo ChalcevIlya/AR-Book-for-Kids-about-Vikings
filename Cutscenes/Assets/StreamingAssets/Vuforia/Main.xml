@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="sa2" size="1.000000 0.940217" />
+    <ImageTarget name="sasss" size="3.000000 1.298469" />
+    <ImageTarget name="1231" size="3.000000 1.633594" />
+    <ImageTarget name="cube-png-1-png-image-cube-png-2000_2000" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
